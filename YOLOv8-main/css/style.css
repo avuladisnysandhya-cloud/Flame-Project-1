@@ -203,3 +203,16 @@ video,#overlay{
   .camera-footer{flex-direction:column}
   .model-pill{display:none}
 }
+.site-header {
+    text-align: center;
+    padding: 20px;
+}
+
+.site-header h2 {
+    margin-bottom: 5px;
+}
+
+.site-header p {
+    font-size: 14px;
+    color: #666;
+}
